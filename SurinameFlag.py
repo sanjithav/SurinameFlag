@@ -1,9 +1,3 @@
-# File: SurinameFlag.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 11/14/2023
 # Description of Program: Draws the flag of Suriname with Turtle Graphics
 
 from turtle import *
